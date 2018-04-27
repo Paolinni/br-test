@@ -1,0 +1,45 @@
+.restaurant-background-image {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    height: 260px;
+}
+
+@media (min-width: 576px) {
+    .restaurant-background-image {
+        height: 360px;
+    }
+}
+
+@media (min-width: 476px) and (max-width: 575.98px) {
+    .restaurant-background-image {
+        height: 300px;
+    }
+}
+
+@media (min-width: 376px) and (max-width: 475.98px) {
+    .restaurant-background-image {
+        height: 260px;
+    }
+}
+
+@media (max-width: 375.98px) {
+    .restaurant-background-image {
+        height: 200px;
+    }
+}
+
+.restaurant-name {
+    color: #FFFFFF;
+    font-family: 'Avenir Next';
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.restaurant-category {
+    color: #FFFFFF;
+    font-family: 'Avenir Next';
+    font-weight: 100;
+    font-size: 12px;
+}

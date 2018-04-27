@@ -1,0 +1,27 @@
+.header-container {
+    text-align: center;
+    background-color: #43E895;
+    color: #FFFFFF;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+
+.header-text {
+    font-family: 'Avenir Next';
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.map-icon-container {
+    text-align: right;
+}
+
+.map-icon {
+    margin-right: 5%;
+    width: 30px;
+}
+
+.back-icon {
+    width: 15px;
+    float: left;
+}

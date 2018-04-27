@@ -1,0 +1,32 @@
+.restaurant-detail-text {
+    background-color: #34B379;
+    color: #FFFFFF;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-bottom: 16px;
+}
+
+.contact-info {
+    color: #2A2A2A;
+    font-family: 'Avenir Next';
+    font-weight: 100;
+    font-size: 16px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+.contact-info-section {
+    margin-top: 26px;
+}
+
+.formatted-address {
+    line-height: 1.15;
+}
+
+agm-map {
+  height: 300px;
+}
+
+a {
+  color: darkblue;
+}
